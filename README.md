@@ -11,7 +11,7 @@ Sklearn-line.py is scikit-learn linear regression method applied to a synthetic 
 
 Project: Tatinic.py
 
-data visualization :  data distribution, crosstab.      
+Data visualization :  data distribution, crosstab.      
 Preprocessing data: change non-numerical data to numberical data      
 Build classfication module: Linear regrassion and Decition Tree       
-Using ROC (Reciever Operating Characteristic) to evaluate modules .
+Evaluation: Using ROC (Reciever Operating Characteristic) to evaluate modules .
