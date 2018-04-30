@@ -1,4 +1,4 @@
-# DataMinig-Regression
+# DataMining-
 
 **lab1**
 
