@@ -1,0 +1,51 @@
+k =  1
+lab4_b.py:18: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  clf_KNC.fit(houses_x_train,houses_y_train)
+Predict_Neighborhood  East  North  West
+Neighborhood                           
+East                     4      7     3
+North                    0      1     2
+West                     3      1     1
+k =  2
+Predict_Neighborhood  East  North  West
+Neighborhood                           
+East                     9      4     1
+North                    2      0     1
+West                     5      0     0
+k =  3
+Predict_Neighborhood  East  North  West
+Neighborhood                           
+East                     5      5     4
+North                    1      1     1
+West                     3      2     0
+k =  4
+Predict_Neighborhood  East  North  West
+Neighborhood                           
+East                     7      3     4
+North                    1      1     1
+West                     4      1     0
+k =  5
+Predict_Neighborhood  East  North  West
+Neighborhood                           
+East                     4      8     2
+North                    1      1     1
+West                     4      1     0
+k =  6
+Predict_Neighborhood  East  North  West
+Neighborhood                           
+East                     6      5     3
+North                    0      1     2
+West                     3      1     1
+k =  7
+Predict_Neighborhood  East  North  West
+Neighborhood                           
+East                     5      7     2
+North                    0      1     2
+West                     4      1     0
+k =  8
+Predict_Neighborhood  East  North  West
+Neighborhood                           
+East                     2      7     5
+North                    0      1     2
+West                     4      1     0
+
